@@ -1,3 +1,6 @@
+div::before {
+	content: "Hello";
+}
 div::after {
-	content: "Hello World";
+	content: "World";
 }
