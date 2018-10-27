@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Hello World in Vue.js</title>
+</meta>
+
+<body>
+<div id="hello-vue-world">
+    <h1>{{ helloVue }}</h1>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</body>
+<footer>
+    <script>
+      var app = new Vue({
+        el: "#hello-vue-world",
+        data: {
+          helloVue: "Hello World!"
+        }
+      })
+
+    </script>
+</footer>
+</html>
