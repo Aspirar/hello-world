@@ -1,0 +1,2 @@
+ArnoldC is a language based on the one-liners of Arnold Schwarzenegger
+It's github is https://github.com/lhartikk/ArnoldC
