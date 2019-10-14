@@ -1,1 +1,1 @@
-console.info('hello to this world');
+console.info('hello world');
