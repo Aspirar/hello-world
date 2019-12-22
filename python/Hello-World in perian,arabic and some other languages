@@ -1,8 +1,0 @@
-print("سلام دنیا!") #Persian
-print("مرحبا بالعالم") #Arabic
-print("Saluton mondo") #Esperanto
-print("Bonjour le monde") #French
-print("Hai dunia") #Malay
-print("Halo Dunia") #Indonesian
-print("Halo donya") #Javanese
-print("Hola Mundo")  #Spanish
